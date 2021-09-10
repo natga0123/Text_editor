@@ -1,0 +1,11 @@
+C:\Users\ngard\source\repos\Text_editor\bin\Debug\Text_editor.exe.config
+C:\Users\ngard\source\repos\Text_editor\bin\Debug\Text_editor.exe
+C:\Users\ngard\source\repos\Text_editor\bin\Debug\Text_editor.pdb
+C:\Users\ngard\source\repos\Text_editor\obj\Debug\Text_editor.csprojAssemblyReference.cache
+C:\Users\ngard\source\repos\Text_editor\obj\Debug\Text_editor.Properties.Resources.resources
+C:\Users\ngard\source\repos\Text_editor\obj\Debug\Text_editor.csproj.GenerateResource.cache
+C:\Users\ngard\source\repos\Text_editor\obj\Debug\Text_editor.csproj.CoreCompileInputs.cache
+C:\Users\ngard\source\repos\Text_editor\obj\Debug\Text_editor.exe
+C:\Users\ngard\source\repos\Text_editor\obj\Debug\Text_editor.pdb
+C:\Users\ngard\source\repos\Text_editor\obj\Debug\Text_editor.Anteckningar_Main_Form.resources
+C:\Users\ngard\source\repos\Text_editor\obj\Debug\Text_editor.Modal_Dialog.resources
